@@ -1,6 +1,6 @@
 #Speaker's slides
 
->this repo is all speaker's slides in the Beijing node event.
+>this repo is all speaker's slides in the 2016 Beijing node event.
 
 
 
